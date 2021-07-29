@@ -1,1 +1,3 @@
-# 2021-more-code-smells
+# More code smells
+
+This repository contains the code for the More code smells video on the ArjanCodes channel. Watch the video [here](https://youtu.be/LrtnLEkOwFE).
